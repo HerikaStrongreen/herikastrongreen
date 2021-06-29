@@ -96,7 +96,7 @@ Nas horas livres produzo conteúdos de tecnologia para as plataformas:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=herikastrongreen" alt="Hérika-Ströngreen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=strongreenKabum" alt="Hérika-Ströngreen" /> </p>
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 
