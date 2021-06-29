@@ -16,7 +16,7 @@ Me chamo <b> Hérika Ströngreen</b>.
   <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Atualmente moro em Belo Horizonte/MG-BR.<br />
+Atualmente moro em Congonhas/MG-BR.<br />
 E estou me capacitando pela @betrybe para me tornar uma <b>Desenvolvedora Full-Stack </b>.
 </p>
 <a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
